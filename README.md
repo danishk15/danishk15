@@ -1,11 +1,7 @@
+![Danish Khan Developer Banner](./dark.svg)
 # Danish Khan
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Danish Khan — animated developer profile banner" width="100%">
-  </picture>
 </p>
 
 <p align="center">
