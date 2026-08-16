@@ -1,119 +1,34 @@
-![Danish Khan Developer Banner](./dark(1).svg)
+
 # Danish Khan
-
-<p align="center">
-</p>
-
-<p align="center">
-  <strong>Aspiring Software Engineer • B.Tech CSE • DSA • AI • App Development</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/danish-khan">LinkedIn</a> •
-  <a href="mailto:shanjalkhan890@gmail.com">Email</a>
-</p>
 
 ## 👨‍💻 About Me
 
-I'm **Danish Khan**, an aspiring Software Engineer and 3rd-year B.Tech Computer Science & Engineering student at **GNIOT, Greater Noida**.
-
-I have a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and programming with **C, C++, Java, and Python**. I'm particularly interested in building practical solutions across **AI, application development, cloud computing, DevOps, and modern web technologies**.
-
-I'm currently looking for opportunities where I can apply my programming skills, learn from real-world engineering environments, and contribute to challenging projects.
-
-## 🎯 Current Focus
-
-- 🧠 Strengthening Data Structures & Algorithms
-- 🤖 Exploring AI / ML and AI-enhanced applications
-- 📱 Building application-development projects
-- ☁️ Learning cloud computing and DevOps workflows
-- 💻 Improving full-stack and modern web-development skills
-- 🚀 Preparing for software-engineering internships and technical evaluations
-
-## 🛠️ Technical Skills
-
-### Languages
-`C` `C++` `Java` `Python`
-
-### Web & Development
-`HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Docker` `Cloud Computing`
-
-### Core Fundamentals
-`Data Structures & Algorithms` `OOP`
-
-### Tools & Platforms
-`VS Code` `IntelliJ IDEA` `Git` `GitHub`
-
-## 🚀 Academic Projects
-
-### 🤖 AI Enhanced Online Auction System
-An online auction platform with an **AI assistant** designed to help users sell products using category-specific pricing information.
-
-**Highlights**
-- Integrated AI/ML concepts to improve data accuracy.
-- Applied DevOps technologies during development.
-- Achieved approximately **95% improvement in data accuracy** according to the project description.
-- Used Git for version control and incremental development.
-
-### 📚 ReadSphere
-A Discord-inspired reading environment focused on creating an interactive community experience for readers.
-
-**Concepts**
-- Interactive reading environment
-- Community-oriented features
-- Social interaction inspired by modern communication platforms
-
-### 🦅 Quillhawk
-A custom programming language created in **Python**, designed around features commonly found in modern programming languages.
-
-**Highlights**
-- Built from scratch as a programming-language project.
-- Implements modern language concepts.
-- Does not currently include an OOP system.
-
-## 🏆 Achievements & Coding Profiles
-
-- 🏁 **Smart India Hackathon:** Participated and reached the semi-finals
-- ☁️ **IBM:** 45-day Cloud Computing internship
-- 🏅 **IBM:** Cloud Computing certificate
-
-## 📜 Certifications
-
-- **Advanced Python** — LinkedIn
-- **AI and Data Science** — Google
-- **Advanced SQL** — Kaggle
-- **Python Course** — Google / Coursera
-- **EDA Course and Assessment** — NASSCOM
-
-## 🎓 Education
-
-**GNIOT, Greater Noida**  
-Bachelor of Technology — Computer Science & Engineering  
-**2024–2028 (Expected)** • CGPA: **7.1/10**
+# 💫 About Me:
+I am a BTech Computer Science student with a strong foundation in Python , C++  and problem-solving. I am currently building my skills in data structures, algorithms, and software development. I’m passionate about app development and interested in creating practical, user-focused applications.<br><br>I enjoy learning new technologies, building real-world projects, and continuously improving my coding skills. My goal is to grow as a mobile and software developer through internships, hands-on projects, and consistent learning.<br><br>Always curious. Always building. 🚀
 
 
-## 📊 Developer Snapshot
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danish-khan-b16847319 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shanjalkhan890gmail.com) 
 
-| Area | Details |
-|---|---|
-| Primary Languages | C, C++, Java, Python |
-| Core Strength | DSA & OOP |
-| Interests | AI, App Development, Cloud, DevOps |
-| Web | HTML5, CSS3, JavaScript, Tailwind |
-| Tools | VS Code, IntelliJ IDEA, Git/GitHub |
-| Current Degree | B.Tech CSE |
-| Graduation | 2028 Expected |
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=danishk15&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=danishk15&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=danishk15&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danishk15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **LinkedIn:** https://www.linkedin.com/in/danish-khan
-- **Email:** shanjalkhan890@gmail.com
-- **Location:** Deoria, Uttar Pradesh, India
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-> **Note:** My GitHub and Twitter/X profiles were not included in the resume, so I have intentionally not invented those links.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=danishk15&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=danishk15&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <i>Building. Learning. Solving. Repeating.</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
