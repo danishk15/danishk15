@@ -1,4 +1,4 @@
-![Danish Khan Developer Banner](./dark.svg)
+![Danish Khan Developer Banner](./dark(1).svg)
 # Danish Khan
 
 <p align="center">
