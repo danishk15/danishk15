@@ -77,7 +77,6 @@ A custom programming language created in **Python**, designed around features co
 
 ## 🏆 Achievements & Coding Profiles
 
-- 🧩 **LeetCode:** 20+ problems solved
 - 🏁 **Smart India Hackathon:** Participated and reached the semi-finals
 - ☁️ **IBM:** 45-day Cloud Computing internship
 - 🏅 **IBM:** Cloud Computing certificate
@@ -96,8 +95,6 @@ A custom programming language created in **Python**, designed around features co
 Bachelor of Technology — Computer Science & Engineering  
 **2024–2028 (Expected)** • CGPA: **7.1/10**
 
-**NSCA — CBSE**  
-Class XII • **73%** • 2024
 
 ## 📊 Developer Snapshot
 
@@ -110,7 +107,6 @@ Class XII • **73%** • 2024
 | Tools | VS Code, IntelliJ IDEA, Git/GitHub |
 | Current Degree | B.Tech CSE |
 | Graduation | 2028 Expected |
-| Coding | LeetCode — 20+ problems |
 
 ## 📫 Connect With Me
 
