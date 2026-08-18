@@ -1,8 +1,6 @@
 
 # Danish Khan
 
-## 👨‍💻 About Me
-
 # 💫 About Me:
 I am a BTech Computer Science student with a strong foundation in Python , C++  and problem-solving. I am currently building my skills in data structures, algorithms, and software development. I’m passionate about app development and interested in creating practical, user-focused applications.<br><br>I enjoy learning new technologies, building real-world projects, and continuously improving my coding skills. My goal is to grow as a mobile and software developer through internships, hands-on projects, and consistent learning.<br><br>Always curious. Always building. 🚀
 
